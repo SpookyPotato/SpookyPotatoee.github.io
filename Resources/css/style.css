@@ -1,5 +1,4 @@
 h1{
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -10,5 +9,19 @@ a{
 }
 *{
   text-align: center;
+  font-family: Verdana;
   background-color: black;
+}
+.wot{
+  font-weight: 300;
+  font-size: 42px;
+}
+.banana{
+  color: gray;
+  font-size: 21px;
+}
+.foot{
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
