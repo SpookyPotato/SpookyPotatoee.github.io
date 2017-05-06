@@ -27,3 +27,6 @@ h2{
   font-size: 42px;
   color: white;
 }
+p{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg);
+}
